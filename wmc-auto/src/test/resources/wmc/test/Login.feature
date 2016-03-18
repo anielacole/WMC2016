@@ -1,7 +1,5 @@
-@Login
 Feature: Login with admin user
 
-@Login
   Scenario: Login
     Given I open the aplication
     When I put the user "admin"

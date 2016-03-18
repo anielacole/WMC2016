@@ -1,4 +1,4 @@
-package wma.test;
+package wmc.test;
 
 import java.util.concurrent.TimeUnit;
 

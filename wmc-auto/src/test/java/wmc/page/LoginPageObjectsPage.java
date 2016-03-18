@@ -1,4 +1,4 @@
-package wma.page;
+package wmc.page;
 
 import java.util.concurrent.TimeUnit;
 

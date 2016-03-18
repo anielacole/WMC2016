@@ -1,9 +1,5 @@
-@Smoke
-Feature: TESTE
+Feature: Teste 
 
-scenario_definitions: Login.feature
-
-@Smoke
 Scenario: Title of your scenario
 Given I want to write a step with precondition
 	And some other precondition
